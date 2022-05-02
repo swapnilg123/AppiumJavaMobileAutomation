@@ -28,7 +28,7 @@ import java.util.List;
 import static io.appium.java_client.touch.WaitOptions.waitOptions;
 import static io.appium.java_client.touch.offset.ElementOption.element;
 
-/** Created by pavankovurru on 1/29/17. */
+
 public class AppiumUtil {
 
   private static Logger log = LogManager.getLogger();
