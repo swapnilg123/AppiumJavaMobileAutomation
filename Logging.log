@@ -1,0 +1,11 @@
+2022-05-02 12:13:11 | [createLocalAndroidDriver_For_Emulator] | (RunOn.java:147) | Android Driver object created for emulator
+2022-05-02 12:13:11 | [run] | (RunOn.java:66) | NATIVE_APP
+2022-05-02 12:13:11 | [invokeApp] | (Webview.java:24) | --------------------------------------------------------------------------
+2022-05-02 12:13:11 | [invokeApp] | (Webview.java:25) | Appium driver created for - AndroidEmulatorNativeApp
+2022-05-02 12:13:11 | [invokeApp] | (Webview.java:26) | Targeting app - Metero.apk
+2022-05-02 12:13:11 | [invokeApp] | (Webview.java:27) | --------------------------------------------------------------------------
+2022-05-02 12:13:11 | [validateAccessibilityLink] | (Webview.java:60) | Testing a - NATIVE_APP
+2022-05-02 12:13:11 | [android_returnMobileElementPresentUsingID] | (AppiumUtil.java:110) | Trying to find element with ID - meteor.test.and.grade.internet.connection.speed:id/btLetsGo
+2022-05-02 12:13:11 | [wait_until_MobileElementIs_Visible] | (AppiumUtil.java:56) | 15 secs - Waiting for element using -By.AndroidUIAutomator: new UiSelector().resourceId("meteor.test.and.grade.internet.connection.speed:id/btLetsGo")
+2022-05-02 12:13:15 | [android_returnMobileElementPresentUsingID] | (AppiumUtil.java:110) | Trying to find element with ID - meteor.test.and.grade.internet.connection.speed:id/buttonAgree
+2022-05-02 12:13:15 | [wait_until_MobileElementIs_Visible] | (AppiumUtil.java:56) | 15 secs - Waiting for element using -By.AndroidUIAutomator: new UiSelector().resourceId("meteor.test.and.grade.internet.connection.speed:id/buttonAgree")

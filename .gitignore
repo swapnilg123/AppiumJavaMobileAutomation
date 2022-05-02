@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+# Files to be ignored for IntelliJ IDEA Project
+.idea/
+.gradle/
+build/
+*.iml
+*.iws
+*.class
+
+
